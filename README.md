@@ -96,3 +96,9 @@ The host script reads this stream and generates a comparison plot.
 
 - Optional demo media can be stored in `Media/`, but project usage does not depend on those files.
 - Large binary assets are best managed outside core source history unless required.
+
+## Demo (Optional)
+
+![Phototransistor Demo](Media/Phototransistor.gif)
+
+- [Download higher-quality video (MOV)](Media/Phototransistor.mov)
